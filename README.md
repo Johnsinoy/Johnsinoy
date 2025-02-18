@@ -15,3 +15,5 @@ A little about me:
 📫 Reach me at [jcsinoy91@gmail.com]
 
 ⚡ Fun fact: I can probably debug your code faster than I can decide what to eat for lunch 🍕🤔
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
