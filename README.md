@@ -1,16 +1,11 @@
-## Hi there 👋
+Hey there! 👋
+Welcome to my GitHub profile!
 
-<!--
-**Johnsinoy/Johnsinoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A little about me:
+🎓 Currently studying Computer Programming at Red Deer Polytechnic—already have a Bachelor’s in Electronics Engineering
+🌱 Always learning—right now, diving into ASP.NET, Node.js, Spring Boot, and front-end magic
+👯 Open to collaborations, especially in web development and tech solutions
+🤔 Need help? Let’s troubleshoot together!
+💬 Ask me about programming, databases, or even night audit hacks
+📫 Reach me at [jcsinoy91@gmail.com]
+⚡ Fun fact: I can probably debug your code faster than I can decide what to eat for lunch 🍕🤔
