@@ -16,4 +16,4 @@ A little about me:
 
 ⚡ Fun fact: I can probably debug your code faster than I can decide what to eat for lunch 🍕🤔
 
-![John Carlo Sinoy](https://github-readme-stats.vercel.app/api?username=johnsinoy)
+![John Carlo GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
